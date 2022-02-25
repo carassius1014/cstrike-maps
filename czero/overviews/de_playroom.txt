@@ -1,0 +1,14 @@
+// overview description file for de_playroom.bsp
+
+global 
+{
+	ZOOM	2.19
+	ORIGIN	-1112.00	920.00	-2945.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_playroom.tga"
+	HEIGHT	-2945.00
+}

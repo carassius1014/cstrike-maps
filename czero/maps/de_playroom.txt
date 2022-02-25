@@ -1,0 +1,13 @@
+de_playroom - Bomb-Defuse
+map by The^Kitty2k (kitty2k@mapscene.de;www.thekitty2k.de.vu)
+
+Counter-Terrorists:
+Prevent Terrorists from bombing the doll´s house or the monitor.
+
+Terrorists:
+Destroy the doll's house or the monitor.
+
+(Press FIRE to continue)
+
+thx to:
+www.mapscene.de
