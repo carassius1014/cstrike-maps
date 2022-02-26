@@ -1,0 +1,14 @@
+City Rush - Bomb/Defuse
+by T-1000 (rjp85@hotmail.com)
+Textures by Locknut, Telnets, JoeSmoe, 
+Davej, and SOOPRcow.
+
+Counter-Terrorists: Prevent Terrorists
+from bombing one of the two bomb targets
+in the city.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the tunnel or the city
+building.
+
+(Press FIRE to continue)
