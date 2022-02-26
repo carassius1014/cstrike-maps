@@ -1,0 +1,20 @@
+Pirates! - Bomb/Defuse
+by Aarkvard (aarkvard@imperium.cc)
+Textures by Madness, Crinity & Madcross, 
+Garbageman, linga, DigiChaos, Cortex, 
+The Curse, 3DPunk & Aarkvard
+
+Counter-Terrorists: Prevent Terrorists
+from bombing targets on this lovely island. 
+Team members must defuse any bombs that 
+threaten the targets.
+
+Terrorists: Drunken and quarrelsome your
+gang decided to get some rum out of Stan's
+old distillery. So you should bomb the door
+or destroy the fish market to fool the watch.
+
+Other Notes: There are two targets
+in this mission.
+
+(Press FIRE to continue)
