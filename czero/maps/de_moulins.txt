@@ -1,0 +1,21 @@
+De_Moulins - Bomb/Defuse
+by freak aka voll_da_freak (mirisnixeingefallen@gmx.de)
+textures by [00]Madness (www.digital-pixels.de.vu)
+
+Counter-Terrorists: 
+
+Prevent Terrorists from escaping the village 
+by defusing all bombs in the area.
+
+Terrorists: 
+
+Escape the village by bombing the entrance of the 
+graveyard or the wall near the "farmerstree" in the 
+south.
+
+Other Notes: 
+There are only two places to escape the village.
+The graveyard and the wall near the "farmerstree".
+
+
+(Press FIRE to continue)
