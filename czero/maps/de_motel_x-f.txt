@@ -1,0 +1,34 @@
+motel_x - Defusion (Version 1.0)
+by X-Tender
+(xtender2k@gmx.de)
+Textures by X-Tender,3DPunk,Warbeast;
+Bodymodel by G.I.Joe
+Bellmodel by -Sa74n-
+
+Because my English sux so much,
+I write the Story in German :P
+
+Background:
+Wir schreiben das das Jahr 2001. Der alte
+Motelbesitzer Madness T.G. beschließt in Rente
+zu gehen und vermacht seinem Neffen Telly R.G.
+sein Motel. Der wiederum ist viel zu beschäftigt
+seinen Frauen Alimente zu zahlen so das er überhaupt
+keine lust hat ein altes Motel zu verwalten.
+Daraufhin heuert er eine Handvoll böser Buben an damit
+sie das Haus in Schutt und Arsche legen.
+Als das der alte Madness erfuhr beschloss er sein
+alten Motel zu retten und es unter Denkmalschutz zu
+stellen. Auch er heuert ein Paar leute an die sich selbst
+"Los Desperados" nennen an damit sie die Sabotage an
+seinem Motel verhintern.
+
+Counter-Terrorists: 
+Verhindert die Zerstürung des Motels.
+
+Terrorists:
+Zerstürt die Emfangshalle oder das Fernsehzimmer
+(das zur Statik des hauses dient).
+
+
+(Press FIRE to continue)
