@@ -1,0 +1,17 @@
+// overview description file for de_via.bsp 
+// Overview: Zoom 1.18, Map Origin (-876.00, -152.00, 304.00), Z Min 993.00, Z Max -385.00, Rotated 
+
+global 
+{ 
+	ZOOM	1.18 
+	ORIGIN	-876.00 -152.00 304.00
+	ROTATED	1 
+} 
+
+layer 
+{ 
+	IMAGE	"overviews/de_via.bmp" 
+	HEIGHT	-185.00 
+} 
+
+note: this overview should be updated

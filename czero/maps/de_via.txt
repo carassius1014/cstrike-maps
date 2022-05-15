@@ -1,0 +1,19 @@
+Map: Via - Bomb/Defuse
+by: NaitsirK
+Version: 02 - as of 19.08.2017
+Assets: Naitsirk
+	Bram Eulaers "backgroundpine"
+	Daank "cf_m_win1", ref."matt_outwooden"
+	Tatu Eugen - Overview
+Spec. Thx to MistaX88 
+
+Theme: ...
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the mansion or the light house.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the aformentioned areas.
+
+Other Notes: There are 2 bomb targets
+in the mission.
