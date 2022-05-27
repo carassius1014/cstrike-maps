@@ -1,0 +1,14 @@
+// overview description file for de_export.bsp
+
+global 
+{
+	ZOOM	1.67
+	ORIGIN	409.50 	189.00	-666.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_export.bmp"
+	HEIGHT	-666.00
+}
