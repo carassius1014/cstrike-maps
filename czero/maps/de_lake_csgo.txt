@@ -1,0 +1,9 @@
+Lake - bomb defuse
+
+Counter-Terrorists: Prevent Terrorists from bombing the safe. Team members must defuse any bombs that threaten targeted area.
+
+Terrorists: The Terrorist carrying the C4 must destroy the safe.
+
+Credits:
+original idea and work by Roger Lundeen for CS GO
+port to Gold Source by Niko
