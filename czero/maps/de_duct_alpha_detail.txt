@@ -1,0 +1,26 @@
+floor_tile_ detail/blues/duct/floor_tile_ 1.0 1.0
+
+wall_block_05 detail/blues/duct/wall_block_05 1.0 1.0
+wall_block_03 detail/blues/duct/wall_block_03 1.0 1.0
+wall_block_1 detail/blues/duct/wall_block_1 1.0 1.0
+wall_block_2 detail/blues/duct/wall_block_2 1.0 1.0
+
+wall_cement detail/blues/duct/wall_cement 1.0 1.0
+wall_fence detail/blues/duct/wall_fence  1.0 1.0
+
+brick_wall_si detail/blues/duct/brick_wall_sitges 1.0 1.0
+WALL_WET detail/blues/duct/wall_wet 1.0 1.0
+
+CONTAINER_A detail/blues/duct/containera 1.0 1.0
+CONTAINERB detail/blues/duct/containerb 1.0 1.0
+CONTAIN_END detail/blues/duct/contain_end 1.0 1.0
+
+//CONCRETEWALL069 detail/blues/duct/containerb 1.0 1.0
+
+CRATE_COV0 detail/blues/duct/crate_cov0 1.0 1.0
+CRATE_COV1 detail/blues/duct/crate_cov1 1.0 1.0
+CRATE_COV2 detail/blues/duct/crate_cov2 1.0 1.0
+CRATE_COV3 detail/blues/duct/crate_cov3 1.0 1.0
+CRATE_COV4 detail/blues/duct/crate_cov4 1.0 1.0
+
+PIPE_CEMENT detail/blues/duct/pipe_cement 1.0 1.0
