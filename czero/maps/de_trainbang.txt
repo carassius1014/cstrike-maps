@@ -1,0 +1,18 @@
+=========================
+Mapname: TRAIN BANG - Defusion
+Author: Poverennov Sergey
+AKA: K!LLER
+Phone: +7-701-146-20-81
+=========================
+
+Counter-Terrorists: Prevent Terrorists
+from bombing chemical weapon crates and mortal tank.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy chemical 
+weapon and mortal tank. 
+
+========================
+(Press FIRE to continue)
