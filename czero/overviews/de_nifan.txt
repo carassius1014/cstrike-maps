@@ -1,0 +1,14 @@
+// overview description file for de_nifan.bsp
+
+global 
+{
+	ZOOM	1.53
+	ORIGIN	-870.88 	1350.75	-137
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_nifan.bmp"
+	HEIGHT	-137
+}
