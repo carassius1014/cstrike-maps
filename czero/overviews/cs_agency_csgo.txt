@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.35
+	ORIGIN	-494.50 485.50 640.00 
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_agency_csgo.bmp"
+	HEIGHT	-52
+}
